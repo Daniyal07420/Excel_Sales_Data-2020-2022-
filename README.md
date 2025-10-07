@@ -101,6 +101,6 @@ Before creating the dashboard, the dataset was cleaned and organized in Excel.
 ---
 
 ## 🔗 Repository Link
-📘 [GitHub Repository](https://github.com/Daniyal07420/Sales_Data_Analysis_Excel_2020_2022)
+📘 [GitHub Repository](https://github.com/Daniyal07420/Excel_Sales_Data-2020-2022-)
 
 
